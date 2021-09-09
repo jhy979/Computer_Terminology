@@ -10,8 +10,30 @@ ___
 |B2B|기업 대 기업은 기업과 기업 사이의 거래를 기반으로 한 비즈니스 모델을 의미한다.|
 |B2C|하나의 기업이 다수의 개인을 상대하는 비즈니스 모델이 있다.|
 |트리 쉐이킹|단일 번들을 최적화할 때 사용되는 필요하지 않는 코드를 제거하는 기술|
-|||
-|||
-|||
-|||
-
+|PP|Project Planning| 
+|PDP|Project Development Plan|
+|PMP|Project Management Plan|
+|RMP|Requirements Management Plan|
+|SDP|Software Development Plan|
+|SE|Software Engineer|
+|SPG|Software Process Group|
+|SRS|Software Requirements Specification|
+|SAD|System Architecture Design|
+|CM|Configuration Management, or Configuration Manager||
+|CMP|Configuration Management Plan|
+|SCM|Software Configuration Management|
+|PL|Project Leader|
+|TL|Technical Leader|
+|PM|Project Manager |
+|QE|Quality Engineer |
+|QAP|Quality Assurance Plan|
+|SQA|Software Quality Assurance|
+|FBS|Function Breakdown Structure|
+|WBS|Work Breakdown Structure|
+|CRM|Customer Relationship Management|
+|MTP|Master Test Plan|
+|UT|Unit Testing|
+|IT|Integration Testing (Interface Testing)|
+|ST|System Testing|
+|TRM|Technical Reference Model|
+|PRM|Performance Reference Model|
